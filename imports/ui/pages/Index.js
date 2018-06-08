@@ -6,7 +6,7 @@ const Index = () => (
     <Jumbotron className="text-center">
       <h2>โปรแกรมกองทุนหมู่บ้านพัฒนา</h2>
       <p>เข้าถึงง่าย ใช้สะดวก ลดความผิดพลาด ประหยัดเวลา เพิ่มประสิทธิภาพการบริหาร</p>
-      <p>พัฒนาจาก Open Source ไลเซนส์ MIT ท่านสามารถคัดลอกและนำไปใช้ภายใต้ไลเซนส์นี้</p>;
+      <p>พัฒนาจาก Open Source ไลเซนส์ MIT สามารถคัดลอกและนำไปใช้ภายใต้ไลเซนส์นี้</p>;
       <p><a className="btn btn-success" href="https://github.com/themeteorchef/base"
       role="button">GitHub: themeteorchef/base</a></p>
       <p><a className="btn btn-success" href="https://github.com/knopsod/pattana"
