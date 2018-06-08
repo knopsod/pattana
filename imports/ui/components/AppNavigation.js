@@ -13,7 +13,7 @@ const AppNavigation = ({ hasUser }) => (
   <Navbar>
     <Navbar.Header>
       <Navbar.Brand>
-        <Link to="/">โปรแกรมกองทุนหมู่บ้านพัฒนา</Link>
+        <Link to="/">Home</Link>
       </Navbar.Brand>
       <Navbar.Toggle />
     </Navbar.Header>
